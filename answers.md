@@ -1,3 +1,4 @@
 LEVEL 1 COMPLETE: I can read instructions
 Level 2 — The Mirror (Check Status)
-Level 3 — The Hidden Note (Commit History) 🕵️
+Level 3 — The Hidden Note (Commit History)
+LEVEL 4 COMPLETE: fixed the hallway sign
