@@ -3,3 +3,4 @@ Level 2 — The Mirror (Check Status)
 Level 3 — The Hidden Note (Commit History)
 LEVEL 4 COMPLETE: fixed the hallway sign
 Level 5 — The Side Door (Branch Skills)
+LEVEL 6 CHEST CODE: <FOX-7>
